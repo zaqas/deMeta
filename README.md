@@ -9,6 +9,8 @@
    * [Mastodon](https://joinmastodon.org/)
    * [Diaspora](https://diasporafoundation.org/)
 
+**Threads**
+   * [Mastodon](https://joinmastodon.org/)
 
 **Instagram**
   
